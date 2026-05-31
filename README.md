@@ -8,7 +8,9 @@ System & Network Monitoring Tool powered by **GoSmartPush v17.2**.
 
 ## 🚀 Quick Start
 ```bash
-git clone [https://github.com/dayuwidayadi57/Go-Monitor-Suite.git](https://github.com/dayuwidayadi57/Go-Monitor-Suite.git)
+git clone https://github.com/dayuwidayadi57/Go-Monitor-Suite.git
 cd Go-Monitor-Suite
 go run .
+```
 
+# edit via codeai mcp work ✅
